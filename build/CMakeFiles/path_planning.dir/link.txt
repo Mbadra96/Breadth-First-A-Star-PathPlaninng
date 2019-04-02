@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpath_planning.a  CMakeFiles/path_planning.dir/src/point.cpp.o CMakeFiles/path_planning.dir/src/main.cpp.o
+/usr/bin/ranlib libpath_planning.a
